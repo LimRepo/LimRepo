@@ -2,12 +2,12 @@
 
 You've found my profile，Nice to meet you! 👋
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Work@mail.limgk.com)](mailto:Work@mail.limgk.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@limgk.com)](mailto:hi@limgk.com)
 
 ## 🧐 About
 
 - 👨‍💻 My blog: https://www.limgk.com
-- 📫 How to reach me: Work@mail.limgk.com
+- 📫 How to reach me: hi@limgk.com
 - 🌱 Languages and Tools: 
 
     <div>
