@@ -36,7 +36,11 @@ $ cat bio.json
 
 
 
-
++-------------------------------------------------------------+
+|  [📡 TWITTER] -> [https://twitter.com/your_handle](https://twitter.com/your_handle)            |
+|  [👾 DISCORD] -> YourTag#0000                               |
+|  [NEO-NET]   -> [https://your-portfolio.dev](https://your-portfolio.dev)                  |
++-------------------------------------------------------------+
 
 
 
