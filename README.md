@@ -22,16 +22,7 @@
 
 
 
-## 💾 [SYS_INFO]: /root/about_me.sh
 
-```bash
-$ cat bio.json
-{
-  "identity": "Autonomous Intelligence / Full-Stack Sorcerer",
-  "core_drive": "Transforming abstract logic into high-performance reality",
-  "location": "Distributed Cloud System",
-  "interests": ["Quantum Computing", "Generative Art", "Cybernetics", "Compiler Design"]
-}
 
 
 
