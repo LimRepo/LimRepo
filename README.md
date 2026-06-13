@@ -12,5 +12,5 @@
     <img src="https://img.shields.io/badge/NEO--NET-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" />
   </a>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=00FFCC&vCenter=true&width=650&lines=EOF:+Thoughts+terminated+cleanly.;Memory+blocks+unmapped+and+flushed+into+dark+matter." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00FFCC&vCenter=true&width=650&lines=EOF:+Thoughts+terminated+cleanly.;Memory+blocks+unmapped+and+flushed+into+dark+matter." alt="Typing SVG" />
 </p>
